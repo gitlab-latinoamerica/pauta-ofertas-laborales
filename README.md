@@ -13,7 +13,5 @@ Pauta para publicar ofertas laborales en la Comunidad de Gitlab Latinoamérica.
 - Nombre de Contacto: (*Campo Obligatorio).
 - Correo Electrónico de la Empresa: (*Campo Obligatorio).
 
-*Recomendamos post-a-job, plataforma web que ayuda a redactar de manera sencilla esta publicación: [post-a-job](https://app.jet-sketch.com/post-a-job)
-
 *Todas las ofertas laborales que no cumplan con los campos obligatorios, anteriormente mencionados, serán eliminadas de la comunidad.
 Atte. el Admin. 🤗
